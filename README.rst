@@ -26,6 +26,12 @@ Future Features:
 4. Integration with our package ifthresholds a component of our package ifmodels (https://github.com/Nance-Lab/ifmodels) that allows for better thresholding of cells in tissue
 5. Integration with IRkernel in Jupyter Notebook for ability to use R in Jupyter Notebook for collaborators without Python background or with R preference
 
+Next Steps:
+1. Move from a singular Jupyter notebook to a package based system
+2. Test Driven-Design
+3. Beginning FIBERp for immunofluorescent images from piglets
+4. Beginning FIBER a non-experiment specific cell morphology pipeline user friendly for 
+
 Note
 ====
 
