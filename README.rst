@@ -30,7 +30,7 @@ Next Steps:
 1. Move from a singular Jupyter notebook to a package based system
 2. Test Driven-Design
 3. Beginning FIBERp for immunofluorescent images from piglets
-4. Beginning FIBER a non-experiment specific cell morphology pipeline user friendly for 
+4. Beginning FIBER a non-experiment specific cell morphology pipeline user friendly for labs studying cells in tissue.
 
 Note
 ====
